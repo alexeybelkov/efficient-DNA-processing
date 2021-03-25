@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
+#include <ext/rope>
 #include <algorithm>
+using namespace __gnu_cxx;
 using namespace std;
 
 class rope_node {
@@ -26,12 +28,13 @@ rope_node* left_rotate(rope_node* p);
 rope_node* right_rotate(rope_node* q);
 
 int main() {
-	
+	crope r = "something";
+	return 0;
 }
 
 rope_node* Rope::insert(rope_node* q,string& s) {
 	
-	if (q == NULL) {
+	if (q == nullptr) {
 		rope_node new_rope_node(s);
 		q = &new_rope_node;
 	}
@@ -81,7 +84,7 @@ int height(rope_node* q) {
 }
 
 int get_balance(rope_node* q) {
-	if (q == NULL) {
+	if (q == nullptr) {
 		return 0;
 	}
 	else {
