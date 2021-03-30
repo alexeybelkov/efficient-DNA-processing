@@ -6,3 +6,4 @@ https://codeforces.com/blog/entry/10355
 [C++ STL Ropes on GeekForGeeks](https://www.geeksforgeeks.org/stl-ropes-in-c/?ref=rp)    
 [Rope<T,Alloc> docs](https://web.archive.org/web/20170629152140/http://www.sgi.com/tech/stl/Rope.html)    
 [Rope implementations overview](https://web.archive.org/web/20171219030153/http://www.sgi.com:80/tech/stl/ropeimpl.html)    
+[Treap (дерамида)](https://ideone.com/uMt0Mi)
