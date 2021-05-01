@@ -11,3 +11,4 @@
 [Rope on ITMO wiki](https://neerc.ifmo.ru/wiki/index.php?title=Rope)    
 [Treap with implicit key impl](https://algorithmica.org/ru/treap)    
 [My Rope Ideone](https://ideone.com/WWAIFR)
+[Treap explanation Youtube](https://www.youtube.com/watch?v=erKlLEXLKyY)
