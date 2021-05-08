@@ -1,4 +1,4 @@
-# AVL_tree_for_dna
+# efficient-DNA-processing
 [Rope_(data_structure) | Wikipedia](https://en.wikipedia.org/wiki/Rope_(data_structure))     
 [A simple rope implementation in C++ ( with \<cstring\> but w\ concatenation(?) ) | codeforces](https://gist.github.com/dermesser/e751aa5b0f90f258b15e#file-rope-cpp)    
 [Немного про дерамиду по неявному ключу | codeforces](https://codeforces.com/blog/entry/10355)   
